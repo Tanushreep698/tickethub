@@ -1,0 +1,14 @@
+
+# Java compiled files
+*.class
+
+# Build output
+target/
+build/
+
+# Environment secrets
+.env
+
+# IDE settings
+.vscode/
+.idea/
